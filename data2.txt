@@ -5,9 +5,10 @@ NumOPs: 1
 NumTrnPats: 3677
 NumTstPats: 500
 NumIts: 500
-NumHN: 2
+NumHN: 3
 NumHN1: 5
 NumHN2: 5
+NumHN3: 3
 LrnRate: 0.6
 Mtm1: 1.2
 Mtm2: 0.4
